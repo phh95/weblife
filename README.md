@@ -24,10 +24,10 @@
 举个例子，如果你想在 Markdown 中添加展开或折叠显示的内容块，需要用到 <kbd>details</kbd> 和 <kbd>summary</kbd> 两个标签。     
 <details>   
 <summary>点击这里展开剩余的内容</summary>            
-这是展开/折叠显示的内容   
-测试
-测试   
+这是展开/折叠显示的内容        
 测试    
+测试      
+测试        
 
   
 
